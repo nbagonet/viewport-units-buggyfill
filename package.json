@@ -2,8 +2,8 @@
   "name": "viewport-units-buggyfill",
   "version": "0.5.3",
   "title": "Viewport Units Buggyfill for Mobile Safari",
-  "description": "Making viewport units (vh|vw|vmin|vmax) work properly in older WebKit and Trident",
-  "homepage": "http://github.com/rodneyrehm/viewport-units-buggyfill/",
+  "description": "修改版，增加了腾讯X5内核的支持，在安卓的微信客户端内非常有用。Making viewport units (vh|vw|vmin|vmax) work properly in Mobile Safari.",
+  "homepage": "https://github.com/nbagonet/viewport-units-buggyfill",
   "author": {
     "name": "Rodney Rehm",
     "url": "http://rodneyrehm.de"
@@ -14,7 +14,7 @@
   }],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rodneyrehm/viewport-units-buggyfill.git"
+    "url": "https://github.com/nbagonet/viewport-units-buggyfill.git"
   },
   "license": "MIT",
   "keywords": [

@@ -1,6 +1,6 @@
 {
   "name": "viewport-units-buggyfill",
-  "description": "Making viewport units (vh|vw|vmin|vmax) work properly in older WebKit and Trident",
+  "description": "修改版，增加了腾讯X5内核的支持，在安卓的微信客户端内非常有用。Making viewport units (vh|vw|vmin|vmax) work properly in Mobile Safari.",
   "version": "0.5.3",
   "main": [
     "./viewport-units-buggyfill.js",
@@ -22,7 +22,7 @@
     "safari",
     "viewport"
   ],
-  "homepage": "https://github.com/rodneyrehm/viewport-units-buggyfill",
+  "homepage": "https://github.com/nbagonet/viewport-units-buggyfill",
   "authors": [
     "Rodney Rehm <mail+github@rodneyrehm.de> (http://rodneyrehm.de)",
     "Zoltan Hawryluk <zhawryluk@sapient.com> (http://www.useragentman.com)"
