@@ -1,7 +1,7 @@
 {
-  "name": "viewport-units-buggyfill",
+  "name": "viewport-units-buggyfill-FX5",
   "version": "0.5.3",
-  "title": "Viewport Units Buggyfill for Mobile Safari",
+  "title": "Viewport Units Buggyfill for Mobile Safari (And add tencet X5 core)",
   "description": "修改版，增加了腾讯X5内核的支持，在安卓的微信客户端内非常有用。Making viewport units (vh|vw|vmin|vmax) work properly in Mobile Safari.",
   "homepage": "https://github.com/nbagonet/viewport-units-buggyfill",
   "author": {
